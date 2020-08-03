@@ -6,7 +6,7 @@ body{
 	font-family: "Comfortaa", sans-serif;
 	font-weight: 400;
 	font-size: 100%;
-	background-color:#FCFCFC;
+	background-color:#fff;
 	color: #261814;
 	animation: fadeIn 1s ease 0s 1 normal;
 }
@@ -177,7 +177,7 @@ a:checked{
 }
 .view_link:hover{
 	border: 1px solid #261814;
-	background-color: #261814;
+	background-color: tomato;
 	color: #FFFFFF;
 }
 .go_top{
