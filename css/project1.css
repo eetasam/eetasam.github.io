@@ -13,6 +13,10 @@ header{
 	height: 100%;
 	display: block;
 }
+.project_img_sidebyside{
+	height: 400px;
+	display: inline;
+}
 .project_wireframe{
 	width: 50%;
 	height: 50%;

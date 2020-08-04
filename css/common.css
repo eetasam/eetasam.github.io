@@ -168,6 +168,9 @@ a:checked{
 .text_right{
 	text-align: right;
 }
+.t90{
+	transform: rotate(-90deg);
+}
 /*button*/
 .view_link{
 	border: 1px solid;
