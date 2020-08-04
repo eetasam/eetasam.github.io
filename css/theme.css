@@ -40,6 +40,9 @@
 .grey_color{
 	color: plum;
 }
+.heavy{
+	font-weight: bold;
+}
 .type_space{
 	padding-top: 120px;
 	padding-bottom: 40px;
