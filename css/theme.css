@@ -51,7 +51,10 @@
 .imgHome {
 	height: 500px;
 }
-
+.alCenter {
+	align-content: center;
+	text-align: center;
+}
 
 .lock-scroll {
     overflow: hidden;

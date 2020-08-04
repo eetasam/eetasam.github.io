@@ -1,29 +1,6 @@
 header{
 	background-color: rgba(252,252,252,0.9);
 }
-.window_1{
-	width: 100%; 
-	height: 100vh;
-	background-color: #4BCCC4;
-	background-image: url(../img/projects/SendASAP/SendASAP_background.jpg);
-	background-repeat: no-repeat;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-	background-position:center;
-}
-.window_2{
-	width: 100%; 
-	height: 100vh;
-	background-image: url(../img/projects/SendASAP/Hero_2.jpg);
-	background-repeat: no-repeat;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-	background-position:center;
-}
 .project_info{
 	width: 100%;
 	text-align: center;
