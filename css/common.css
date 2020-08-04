@@ -165,6 +165,9 @@ a:checked{
 .space_xs{
 	padding-top: 10px;
 }
+.margR{
+	margin-right: 30px;
+}
 .text_right{
 	text-align: right;
 }
